@@ -1,8 +1,13 @@
 # Probability-calculator
 A calculator program to calculate Mean,Standard deviation,Coefficeint of variance.
+
+
 package Probability1;                            /*Java program using methods to calculate mean,sd & cv*/
+
 import java.util.Scanner;
+
 public class Compute {
+
 	public static double mean(double mean){
 		double sum = 0;
 		double mean1 =0;
